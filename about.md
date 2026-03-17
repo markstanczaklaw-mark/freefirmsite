@@ -22,6 +22,6 @@ What sets us apart is our rare combination of legal expertise and deep technical
 
 ## Contact Us
 
-- **Email:** markstanczaklaw@gmail.com
+- **Email:** mark@markstanczaklaw.com
 - **Phone:** (310) 579-5723
 - **Location:** Los Angeles, California — Serving Clients Statewide

@@ -41,7 +41,8 @@ collections:
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: ""
+url: "https://markstanczaklaw.com"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

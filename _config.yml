@@ -7,7 +7,7 @@ title: Mark Stanczak Law
 email: "mark@markstanczaklaw.com"
 
 # The phone number of your law firm. This will be displayed on the website.
-phone: "+1 310 579 5723"
+#phone: "+1 310 579 5723"
 
 # The description of your website. This will be displayed in the footer of the website
 description: >- # this means to ignore newlines until "baseurl:"

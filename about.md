@@ -8,7 +8,7 @@ title: About
 
 Mark Stanczak Law is a Los Angeles-based cybersecurity, data privacy, and federal litigation practice founded by Mark P. Stanczak — an attorney with 15 years of software engineering and systems architecture experience.
 
-We represent businesses and individuals throughout the entire state of California in complex federal litigation, data breach incident response, and privacy compliance matters. Our practice spans CCAA, GDPR, HIPAA, GLBA, and FERPA, with active admission in the U.S. District Court for the Central District of California.
+We represent businesses and individuals throughout the entire state of California in complex federal litigation, data breach incident response, and privacy compliance matters. Our practice spans CCPA, GDPR, HIPAA, GLBA, and FERPA, with active admission in the U.S. District Court for the Central District of California.
 
 What sets us apart is our rare combination of legal expertise and deep technical fluency. We don't just advise on the law — we understand the systems, architectures, and vulnerabilities at the heart of modern disputes.
 

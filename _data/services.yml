@@ -19,3 +19,5 @@
 - name: AI & Emerging Technology Law
   description: As artificial intelligence reshapes industries, businesses face new legal and regulatory challenges around data use, liability, and compliance. We advise on the legal implications of AI adoption, automated decision-making, and emerging technology deployments — bringing both legal training and a deep technical foundation to one of the fastest-moving areas of the law.
   
+- name: Discovery Assistance
+  description: We can assist in discovery litigation to review voluminous amounts of electronically stored information. We have built AI and cloud-based discovery tools using AWS, Bedrock, S3, and DynamoDB, and can customize to your needs.

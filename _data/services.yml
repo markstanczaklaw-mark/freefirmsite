@@ -1,17 +1,11 @@
 - name: Data Breach Incident Response
   description: When a breach happens, the first hours matter most. We lead the full incident response process — from forensic triage and legal analysis to regulatory notifications under CCPA, GDPR, HIPAA, GLBA, and all 50-state breach notification laws. Our engineering background means we can work directly with your IT and security teams to assess scope, contain damage, and meet regulatory deadlines without losing time to translation.
-
-- name: Federal Litigation
-  description: We advise on complex federal matters — including breach of contract, fraud, cybersecurity claims, and business disputes. With a technical foundation that most litigators lack, we bring analytical precision to every phase of a matter, from pre-suit strategy through motion practice and discovery.
   
 - name: Privacy Compliance
   description: We help businesses build and maintain privacy programs that comply with CCPA/CPRA, GDPR, HIPAA, GLBA, and FERPA. From drafting privacy policies and data processing agreements to conducting vendor risk assessments and gap analyses, we translate complex regulatory requirements into practical controls your team can actually implement.
   
 - name: Cybersecurity Counseling
   description: We advise businesses on proactive cybersecurity risk management, including NIST framework alignment, ISO 27001 compliance, and secure software development practices. With 15 years of hands-on engineering experience, we bridge the gap between your legal obligations and your technical environment.
-
-- name: Civil Disputes
-  description: We advise on a broad range of civil matters — including breach of contract, fraud in the inducement, negligent misrepresentation, and business tort claims. Our technical background is a strategic advantage in disputes involving software, technology contracts, and digital systems, where understanding what actually happened inside a system can make or break a case.
   
 - name: Vendor & Third-Party Risk
   description: Third-party vendors are one of the leading causes of data breaches and regulatory exposure. We review and negotiate data processing agreements, business associate agreements, and technology contracts to ensure your vendor relationships meet legal requirements and protect your business interests.
